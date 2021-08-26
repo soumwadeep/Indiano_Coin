@@ -1,0 +1,9 @@
+Building Indianocoin
+
+See doc/readme-qt.rst for instructions on building Indianocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Indianocoin.
+
+See doc/build-*.txt for instructions on building indianocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Indianocoin.
