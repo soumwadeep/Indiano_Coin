@@ -1,10 +1,6 @@
 Indianocoin integration/staging tree
 ================================
-
-http://www.indianocoin.org
-
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Indianocoin Developers
+Copyright (c) 2021 Indianocoin Developers
 
 What is Indianocoin?
 ----------------
@@ -17,10 +13,6 @@ Indianocoin is a lite version of Bitcoin using scrypt as a proof-of-work algorit
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Indianocoin client sofware, see http://www.indianocoin.org.
-
 License
 -------
 
